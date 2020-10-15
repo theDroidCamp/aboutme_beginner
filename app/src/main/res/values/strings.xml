@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AboutMe_Beginner</string>
+    <string name="about_droidcamp">We are determined to introduce newbies and oldies interested in Android development to the framework.
+        We hope to build a budding community of world class android developers who can take on real world projects One step at a time, we seek to mentor, train and guide budding android developers on their journey, and have fun while at it </string>
 </resources>
