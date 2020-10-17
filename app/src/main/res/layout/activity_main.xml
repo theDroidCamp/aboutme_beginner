@@ -38,7 +38,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
             android:backgroundTint="#4A946C"
-            android:text="Next Page"
+            android:text="@string/btn_next_page"
             android:textColor="#ffffff" />
 
     </LinearLayout>
