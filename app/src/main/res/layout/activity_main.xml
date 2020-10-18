@@ -52,5 +52,4 @@
         android:textColor="#ffffff"
         app:layout_constraintTop_toBottomOf="@+id/about_text" />
 
-
 </androidx.constraintlayout.widget.ConstraintLayout>
