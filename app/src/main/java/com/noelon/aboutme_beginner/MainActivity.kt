@@ -13,8 +13,10 @@ class MainActivity : AppCompatActivity() {
 
         droidcamp_button.setOnClickListener {
             showToast("Droidcamp button clicked")
-            val intent = Intent(this, About_Stephen::class.java)
-            startActivity(intent)
+
+          // val intent = Intent(this, AboutEmu::class.java)
+            //val intent = Intent(this, About_Stephen::class.java)
+           // startActivity(intent)
         }
     }
 
