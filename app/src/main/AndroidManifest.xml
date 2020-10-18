@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.noelon.aboutme_beginner">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +10,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".About_Khadijat"></activity>
+
+        <activity android:name=".AboutCarlaActivity" />
+        <activity android:name=".about_sultan"></activity>
+        <activity android:name=".AboutEmu"></activity>
+        <activity android:name=".About_Stephen"></activity>
+
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
