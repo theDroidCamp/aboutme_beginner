@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">AboutMe_Beginner</string>
-    <string name="about_droidcamp">We are determined to introduce newbies and oldies interested in Android development to the framework.
-        We hope to build a budding community of world class android developers who can take on real world projects One step at a time, we seek to mentor, train and guide budding android developers on their journey, and have fun while at it </string>
     <string name="about_carla">I am a newbie to Android development.
         I am very enthusiastic about creating tech-based solutions for my community.
         I am determined, self motivated, curious, and have great thirst for knowledge.
@@ -10,4 +8,29 @@
     <string name="btn_next_page">Next Page</string>
     <string name="btn_github">Checkout My Github</string>
     <string name="image_profile">Carla\'s Picture</string>
+
+    <string name="my_name">ABDULSALAM SULTAN</string>
+
+    <string name="about_sultan">
+
+        DroidCamp 2.0 student\n
+        Aspiring Mobile App Developer\n
+        Positive thinker\n
+        I am cool/calm and learn from people.\n
+        Love to solve world problem with technology.
+
+    </string>
+
+    <string name="image_description">sultan image</string>
+
+    <string name="next_page">Next Page</string>
+
+    <string name="about_droidcamp">
+        We are determined to introduce newbies and oldies interested in Android development
+        to the framework. We hope to build a budding community of world class android developers
+        who can take on real world projects one step at a time, we seek to mentor, train and guide
+        budding android developers on their journey, and have fun while at it.
+
+    </string>
+    <string name="about_me">Hey there, I\'m Emu. An Android developer and DroidCamp student looking to hone my skills and become a professional Android Developer. I\'m excited to be here and looking to have fun on this journey Vamos!</string>
 </resources>
