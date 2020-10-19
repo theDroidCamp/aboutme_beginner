@@ -11,10 +11,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <activity android:name=".About_Khadijat"></activity>
+
         <activity android:name=".AboutCarlaActivity" />
         <activity android:name=".about_sultan"></activity>
         <activity android:name=".AboutEmu"></activity>
         <activity android:name=".About_Stephen"></activity>
+
 
         <activity android:name=".MainActivity">
             <intent-filter>

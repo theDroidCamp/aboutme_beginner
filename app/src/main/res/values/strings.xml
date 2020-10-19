@@ -1,5 +1,17 @@
 <resources>
     <string name="app_name">AboutMe_Beginner</string>
+
+    <string name="about_droidcamp">We are determined to introduce newbies and oldies interested in Android development to the framework.
+        We hope to build a budding community of world class android developers who can take on real world projects One step at a time, we seek to mentor, train and guide budding android developers on their journey, and have fun while at it </string>
+    <string name="next_page">Next Page</string>
+    <string name="todo">TODO</string>
+    <string name="about_khadijat">Khadijat is someone very passionate about change in her environment. She continually improves herself by not only pursuing her interests but also submitting herself to change.
+        She loves cycling, interested in artificial intelligence, art in general(drawing and writing inclusive,loves cycling and is committed to growth.
+        In years to come, Khadijat want to see more individuals venturing into technology. She hopes with the opportunity given to her,
+        not only would she have grown so much as a developer but as an innovative member of the society.</string>
+    <string name="next">Next Page</string>
+    <string name="image">image</string>
+
     <string name="about_carla">I am a newbie to Android development.
         I am very enthusiastic about creating tech-based solutions for my community.
         I am determined, self motivated, curious, and have great thirst for knowledge.
@@ -33,4 +45,5 @@
 
     </string>
     <string name="about_me">Hey there, I\'m Emu. An Android developer and DroidCamp student looking to hone my skills and become a professional Android Developer. I\'m excited to be here and looking to have fun on this journey Vamos!</string>
+
 </resources>
