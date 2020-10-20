@@ -3,7 +3,14 @@
 
     <string name="about_droidcamp">We are determined to introduce newbies and oldies interested in Android development to the framework.
         We hope to build a budding community of world class android developers who can take on real world projects One step at a time, we seek to mentor, train and guide budding android developers on their journey, and have fun while at it </string>
+    <string name="droid_camp">Droidcamp</string>
+  
+  
+    <string name="about_taofeek">My name is TAOFEEQ MUSA. I am a citizen of Nigeria and a participant (beginner in KOTLIN LANGUAGE) in the ongoing DROIDCAMP android development program for aspiring android developers .</string>
+    
     <string name="next_page">Next Page</string>
+  
+  
     <string name="todo">TODO</string>
     <string name="about_khadijat">Khadijat is someone very passionate about change in her environment. She continually improves herself by not only pursuing her interests but also submitting herself to change.
         She loves cycling, interested in artificial intelligence, art in general(drawing and writing inclusive,loves cycling and is committed to growth.
@@ -18,6 +25,7 @@
         <b>I am brave, I am bruised, I am who am meant to be,
             THIS IS ME</b>. ~The Greatest Showman.</string>
     <string name="btn_next_page">Next Page</string>
+  
     <string name="btn_github">Checkout My Github</string>
     <string name="image_profile">Carla\'s Picture</string>
 
@@ -35,15 +43,12 @@
 
     <string name="image_description">sultan image</string>
 
-    <string name="next_page">Next Page</string>
+  
 
-    <string name="about_droidcamp">
-        We are determined to introduce newbies and oldies interested in Android development
-        to the framework. We hope to build a budding community of world class android developers
-        who can take on real world projects one step at a time, we seek to mentor, train and guide
-        budding android developers on their journey, and have fun while at it.
 
     </string>
     <string name="about_me">Hey there, I\'m Emu. An Android developer and DroidCamp student looking to hone my skills and become a professional Android Developer. I\'m excited to be here and looking to have fun on this journey Vamos!</string>
+   
+    <string name="i_am_determined_new_android_developer_i_am_start_up_tech_business_owner_in_abuja_nigeria">I am determined new Android developer. I am Start-Up Tech business owner in Abuja Nigeria</string>
 
 </resources>
