@@ -24,6 +24,10 @@ class MainActivity : AppCompatActivity() {
           // val intent = Intent(this, AboutEmu::class.java)
             //val intent = Intent(this, About_Stephen::class.java)
            // startActivity(intent)
+
+             //val intent:Intent = Intent(this, AboutOscar::class.java)
+           // startActivity(intent)
+
         }
     }
 

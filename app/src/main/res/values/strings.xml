@@ -25,6 +25,10 @@
 
     <string name="next_page">Next Page</string>
 
+    <string name="about_oscar"> My name is Oscar I am new to android development. I am passionate about learning mobile
+    development. I hope to be a great developer one day. I am tech savvy, and easy going.When am not learning to code
+    i am either sleeping or seeing movies at leisure</string>
+
     <string name="about_droidcamp">
         We are determined to introduce newbies and oldies interested in Android development
         to the framework. We hope to build a budding community of world class android developers
