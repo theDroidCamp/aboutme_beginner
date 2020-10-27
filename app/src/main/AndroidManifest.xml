@@ -11,6 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".AboutOscar"></activity>
+        <activity android:name=".OscarActivity" />
         <activity android:name=".About_Dianah"></activity>
         <activity android:name=".About_Khadijat" />
         <activity android:name=".AboutCarlaActivity" />

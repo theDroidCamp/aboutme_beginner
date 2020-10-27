@@ -44,9 +44,10 @@
     <string name="image_description">sultan image</string>
 
   
-
-
-    </string>
+    <string name="about_oscar"> My name is Oscar I am new to android development. I am passionate about learning mobile
+    development. I hope to be a great developer one day. I am tech savvy, and easy going.When am not learning to code
+    i am either sleeping or seeing movies at leisure</string>
+  
     <string name="about_me">Hey there, I\'m Emu. An Android developer and DroidCamp student looking to hone my skills and become a professional Android Developer. I\'m excited to be here and looking to have fun on this journey Vamos!</string>
    
     <string name="i_am_determined_new_android_developer_i_am_start_up_tech_business_owner_in_abuja_nigeria">I am determined new Android developer. I am Start-Up Tech business owner in Abuja Nigeria</string>
